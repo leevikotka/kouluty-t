@@ -1,0 +1,17 @@
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align:left;
+  padding: 8px;
+}
+#musta {background-color: #333;color:white}
+#vapaa {background-color: #d6f5d6;}
+#ohjelmointi {background-color:#cce0ff;}
+#kuntosali {background-color: #707e70}
+#matematiikka {background-color: #ffe0cc;}
